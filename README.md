@@ -1,6 +1,6 @@
 # Material and Source Code of Disseratation.
 
-This repository provides material and source code used for the dissertation *Algorithm Engineering for Hard Problems in Computational Geometry*.
+This repository provides material and source code used for the dissertation *Algorithm Engineering for Hard Problems in Computational Geometry* by Dominik Krupke.
 
 ## Part 1: Optimization Problems of Satellite Swarms
 
