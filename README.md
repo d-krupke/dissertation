@@ -1,4 +1,4 @@
-# Material and Source Code of Disseratation.
+# Material and Source Code of Dissertation.
 
 This repository provides material and source code used for the dissertation *Algorithm Engineering for Hard Problems in Computational Geometry* by Dominik Krupke.
 
