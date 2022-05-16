@@ -16,7 +16,7 @@ This repository provides material and source code used for the dissertation *Alg
 * Chapter 05: Engineering an Approximation Algorithm
   * [Code and Material](https://github.com/d-krupke/turncost)
 * Chapter 06: Generalization to Polygonal Areas
-  * Still needs some cleaning up.
+  * [Code and Material](https://gitlab.ibr.cs.tu-bs.de/krupke/grid_warping)
 
 ## Part 3: Capturing Trajectories
 
